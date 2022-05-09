@@ -1,0 +1,17 @@
+.wrapper{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(5,92,183,1) 0%, rgba(0,189,255,1) 100%);
+}
+.main-area{
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+.companyData{
+    background: linear-gradient(90deg, rgba(204,204,136,1) 0%, rgba(230,208,106,1) 99%);
+}
+.companyData .compDataTitle{
+    color: rgb(102 100 143);
+}
+.icon{
+    cursor: pointer;
+}
